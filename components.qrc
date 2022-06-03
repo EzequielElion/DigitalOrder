@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="main">
+    <file>main page components/start caixa botom.png</file>
+    <file>main page components/greem light notification.png</file>
+  </qresource>
+</RCC>

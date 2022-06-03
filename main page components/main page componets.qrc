@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="main page">
+    <file>1.png</file>
+    <file>delivery.png</file>
+    <file>order.png</file>
+    <file>statistics.png</file>
+    <file>tables.png</file>
+    <file>logo text.png</file>
+    <file>menu botom.png</file>
+    <file>greem light notification.png</file>
+    <file>d..png</file>
+    <file>Iniciar Caixa text.png</file>
+    <file>start caixa botom.png</file>
+    <file>Line 1.png</file>
+  </qresource>
+</RCC>
